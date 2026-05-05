@@ -1,17 +1,46 @@
-# travelapp
+# 🌍 Travel App UI (Flutter)
 
-A new Flutter project.
+A modern and clean travel landing screen built using Flutter.  
+This project focuses on UI design and layout structuring.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- Beautiful travel landing screen
+- Clean and modern UI
+- Responsive layout
+- Organized Flutter code structure
+- Beginner-friendly project
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshots
+
+![App Screenshot](screenshots/home.png)
+
+---
+
+## 🛠️ Built With
+
+- Flutter
+- Dart
+
+---
+
+## 🚀 Getting Started
+
+To run this project:
+
+```bash
+git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+cd YOUR-REPO-NAME
+flutter pub get
+flutter run
+## 📌 Notes
+
+- This project is a UI-only implementation (no backend functionality).
+- Designed as part of Flutter learning and practice.
+- Focuses on layout, styling, and clean code structure.
+- Can be extended with navigation, API integration, and animations.
+- Suitable for beginners building their Flutter portfolio.
